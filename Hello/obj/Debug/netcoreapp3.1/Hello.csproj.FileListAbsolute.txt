@@ -1,0 +1,4 @@
+D:\code\hello\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.exe
+D:\code\hello\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.csprojAssemblyReference.cache
+D:\code\hello\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfoInputs.cache
+D:\code\hello\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfo.cs
